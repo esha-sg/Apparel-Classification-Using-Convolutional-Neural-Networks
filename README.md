@@ -1,1 +1,1 @@
-# Apparel-Classification-Using-Convolutional-Neural-NEtworks
+# Apparel-Classification-Using-Convolutional-Neural-Networks
