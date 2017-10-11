@@ -23,12 +23,13 @@ T-Shirt      : 0.99694 <br/>
 Ladies Kurta : 0.00185 <br/>
 Pants        : 0.00102 <br/>
 Footwear     : 0.00011 <br/>
-
+<br />
 <img align="left" src="https://raw.githubusercontent.com/esha-sg/Apparel-Classification-Using-Convolutional-Neural-Networks/master/Apparel_Dataset/Sarees/Saree1.jpg">
 Saree        : 0.99445 <br/>
 Ladies Kurta : 0.00536 <br/>
 Pants        : 0.00009 <br/>
 T-Shirt      : 0.00005 <br/>
+<br />
 
 ### Few results of classification for sub class tshirt
 
