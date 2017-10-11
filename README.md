@@ -16,6 +16,11 @@ Further, inception model was trained similarly on Sub_Class_Tshirt dataset. Sinc
 
 ## Results
 
+Few results of classification.
+
+[!alt text](https://raw.githubusercontent.com/esha-sg/Apparel-Classification-Using-Convolutional-Neural-Networks/master/Apparel_Dataset/T_Shirts/T_Shirt1.jpg)
+
+[!alt text](https://raw.githubusercontent.com/esha-sg/Apparel-Classification-Using-Convolutional-Neural-Networks/master/Apparel_Dataset/Sarees/Saree1.jpg)
 
 
 
