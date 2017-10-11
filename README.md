@@ -22,7 +22,7 @@ Further, inception model was trained similarly on Sub_Class_Tshirt dataset. Sinc
 T-Shirt      : 0.99694 <br/>
 Ladies Kurta : 0.00185 <br/>
 Pants        : 0.00102 <br/>
-Footwear     : 0.00011 
+Footwear     : 0.00011 <br/><br/><br/><br/><br/><br/>
 </div>
  <div>
 <img align="left" src="https://raw.githubusercontent.com/esha-sg/Apparel-Classification-Using-Convolutional-Neural-Networks/master/Apparel_Dataset/Sarees/Saree1.jpg">
