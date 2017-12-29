@@ -1,6 +1,6 @@
 # Apparel-Classification-Using-Convolutional-Neural-Networks
 
-Convolutional neural networks are the state of the art currently at recognising objects in images. Here the last layer of the Google's inception model is trained to recognise apparels.
+Convolutional neural networks are currently the state of the art methods in recognising objects in images. Here the last layer of the Google's Inception V3 model is trained to recognise apparels.
 
 ## Data Collection
 
